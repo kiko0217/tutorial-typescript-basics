@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-typescript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiko0217/tutorial-typescript-basics.git"
+  },
+  "author": "kiko0217",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiko0217/tutorial-typescript-basics/issues"
+  },
+  "homepage": "https://github.com/kiko0217/tutorial-typescript-basics#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182"
+  }
+}
