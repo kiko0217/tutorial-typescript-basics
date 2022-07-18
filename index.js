@@ -14,7 +14,7 @@ const person = {
 function pow(x, y) {
     return Math.pow(x, y).toString();
 }
-let arr;
+let arr = [];
 arr.push(1);
 arr.push("test");
 arr.push(false);

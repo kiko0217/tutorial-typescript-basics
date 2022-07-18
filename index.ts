@@ -37,8 +37,7 @@ function pow(x:number, y:number): string {
 
 type MyList = [number?, string?, boolean?]
 
-let arr:MyList;
+let arr:MyList = [];
 arr.push(1)
 arr.push("test")
 arr.push(false)
-
